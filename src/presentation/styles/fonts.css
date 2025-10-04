@@ -1,0 +1,64 @@
+/* Manrope */
+@font-face {
+  font-family: "Manrope";
+  src: url("../fonts/Manrope/Manrope-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("../fonts/Manrope/Manrope-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("../fonts/Manrope/Manrope-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("../fonts/Manrope/Manrope-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Neulis */
+@font-face {
+  font-family: "Neulis";
+  src: url("../fonts/Neulis/Neulis-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Neulis";
+  src: url("../fonts/Neulis/Neulis-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Neulis";
+  src: url("../fonts/Neulis/Neulis-SemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Neulis";
+  src: url("../fonts/Neulis/Neulis-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Neulis";
+  src: url("../fonts/Neulis/Neulis-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
